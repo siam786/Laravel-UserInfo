@@ -7,6 +7,6 @@ use Illuminate\Http\Request;
 class UserController extends Controller
 {
     function Greeting(){
-        return "Hello Laravel";
+        return "Hello, Laravel!";
     }
 }
